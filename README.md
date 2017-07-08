@@ -1,2 +1,7 @@
 # mauryat.github.io
-abcde 
+
+## Qualifications
+iOS, Java
+
+## Projects
+Mozilla Firefox for iOS/Android/Desktop
