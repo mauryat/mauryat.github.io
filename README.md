@@ -1,5 +1,3 @@
-# mauryat.github.io
-
 ## Qualifications
 iOS, Java
 
